@@ -1,19 +1,19 @@
 ## Info
 
-this gets the nearest color
+this gets the nearest color from a given color palette
 
 ## Installation
 
 ```
-npm install nearestcolor
+npm install nearest-rgba
 ```
 
 ## Usage
 
 ```js
-const nearestColor = require("nearestcolor");
+const NearestColor = require("nearest-rgba");
 
-var nc = new nearestColor();
+var nc = new NearestColor();
 nc.fromHEX([
   // you can addd them like this with hex strings
   "#ff0000", // red

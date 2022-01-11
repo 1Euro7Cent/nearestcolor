@@ -1,0 +1,23 @@
+{
+  "name": "nearest-rgba",
+  "version": "1.0.0",
+  "description": "This gets the nearest color in a palette to a given color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Euro7Cent/nearestcolor.git"
+  },
+  "keywords": [
+    "nearest",
+    "color"
+  ],
+  "author": "1euro7cent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1Euro7Cent/nearestcolor/issues"
+  },
+  "homepage": "https://github.com/1Euro7Cent/nearestcolor#readme"
+}
